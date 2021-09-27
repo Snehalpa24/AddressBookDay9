@@ -1,0 +1,5 @@
+C:\Users\HP\source\repos\AddressBookUc2Day9\obj\Debug\netcoreapp3.1\AddressBookUc2Day9.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\AddressBookUc2Day9\obj\Debug\netcoreapp3.1\AddressBookUc2Day9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\AddressBookUc2Day9\obj\Debug\netcoreapp3.1\AddressBookUc2Day9.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AddressBookUc2Day9\obj\Debug\netcoreapp3.1\AddressBookUc2Day9.AssemblyInfo.cs
+C:\Users\HP\source\repos\AddressBookUc2Day9\obj\Debug\netcoreapp3.1\AddressBookUc2Day9.csproj.CoreCompileInputs.cache
